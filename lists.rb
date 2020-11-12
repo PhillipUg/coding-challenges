@@ -1,4 +1,6 @@
-/* Lists  
+=begin
+
+Lists  
 
 Create your own LinkedList  class for storing integers which should include two methods:  
 add(number) - Add a new Node to the end of the list with a value of number. Nothing needs to be returned. 
@@ -17,7 +19,9 @@ puts list.get(1)
 
 
 The 2 add operations create the list: [3, 5]. 
-The get operation, gets the number located at position 1. */
+The get operation, gets the number located at position 1.
+
+=end
 
 
 class Node

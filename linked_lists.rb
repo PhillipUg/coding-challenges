@@ -1,4 +1,5 @@
-/* Linked List  
+=begin
+Linked List  
 
 Implement the following two methods in your own LinkedList class. You should start with your code from yesterday:  
 
@@ -27,7 +28,9 @@ puts list.get(2)
 puts list.get(3)
 # => 5
 
-The add operations create the list: [13, 3, 11, 5]. The get operation, gets the numbers located at position 2 and 3. */
+The add operations create the list: [13, 3, 11, 5]. The get operation, gets the numbers located at position 2 and 3. 
+
+=end
 
 
 class Node
